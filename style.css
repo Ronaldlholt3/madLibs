@@ -1,4 +1,7 @@
 .body{
     background-color: sandybrown;
 }
-
+.lib{
+ justify-content: center;
+ text-align: center;
+}
